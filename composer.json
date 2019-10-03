@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Olctw_Locale_zh_TW",
+    "name": "OpenMageModuleFostering\/Olctw_Locale_zh_TW",
     "type": "magento-module",
     "license": "OSLv3",
     "homepage": "",
     "description": "Traditional Chinese (Taiwan) Language Pack",
     "authors": [
-    {
-        "name": "Finjon Kiang",
-        "email": "service@olc.tw"
-    }
-],
+        {
+            "name": "Finjon Kiang",
+            "email": "service@olc.tw"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
